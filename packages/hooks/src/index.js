@@ -1,1 +1,3 @@
-const hook = () => {}
+const hook = () => {
+  console.log('kkk')
+}

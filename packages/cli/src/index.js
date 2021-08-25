@@ -1,1 +1,3 @@
-const foo = () => {}
+const foo = () => {
+  console.log('kkk')
+}

@@ -1,1 +1,1 @@
-const bar = () => {}
+const bar = () => {console.log('')}

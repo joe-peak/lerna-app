@@ -1,6 +1,6 @@
 {
   "name": "@mozart/cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "> TODO: description",
   "author": "joe <joe@fiture.com>",
   "homepage": "https://github.com/joe-peak/lerna-app#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/joe-peak/lerna-app/issues"
   },
   "dependencies": {
-    "@mozart/cli-share-utils": "^1.0.0",
+    "@mozart/cli-share-utils": "^1.1.0",
     "chalk": "^4.1.2"
   }
 }
